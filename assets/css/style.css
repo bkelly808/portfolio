@@ -44,12 +44,16 @@ body {
 .projectpics {
     height: 200px;
     width: 200px;
+    border-color: black;
+    border-style: inset;
 
 }
 
 .projectpics2 {
     height: 200px;
     width: 300px;
+    border-color: black;
+    border-style: inset;
 }
 
 footer {
