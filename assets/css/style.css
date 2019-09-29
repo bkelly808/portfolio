@@ -33,8 +33,12 @@ body {
     float: none;
     background-attachment: fixed;
     background-position: center; 
-    background-image: url("")
 
+}
+
+#purpleflowers {
+    height: 25%;
+    width: 25%;
 }
 
 .project {
@@ -59,7 +63,6 @@ body {
 
 footer {
     font-family: 'Yeseva One', cursive;
-    position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
