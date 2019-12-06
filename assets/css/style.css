@@ -6,9 +6,8 @@
     background-color: rgb(86, 86, 201);
     font-weight: bold;
     color: white;
-
+    
 }
-
 
 body {
     font-family: 'Rokkitt', serif;
@@ -25,7 +24,7 @@ body {
 }
 
 .navLink {
-    font-size: 24pt;
+    font-size: 20pt;
 }
 
 
